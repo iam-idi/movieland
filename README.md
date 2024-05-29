@@ -1,5 +1,5 @@
 # movieland
-A movie website, consuming the omdb api
+A movie website consuming the omdb api
 
 ## Guide
 
